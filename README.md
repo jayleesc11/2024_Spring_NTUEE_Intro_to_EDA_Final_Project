@@ -1,4 +1,4 @@
-# Intro to EDA Final Project - 2024 ICCAD Contest Problem D: Chip Level Global Router
+# 2024 Spring NTUEE Intro to EDA Final Project - 2024 ICCAD Contest Problem D: Chip Level Global Router
 This program supports a solution to the ICCAD 2024 CAD Contest Problem D: Chip Level Global Router. 
 Default setting corresponds to the stage 5 of Experiment Result in our report.
 
